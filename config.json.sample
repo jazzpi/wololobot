@@ -8,4 +8,8 @@
 , "database":
   { "dialect": "sqlite3"
   , "connection": { "filename": "wololobot.sqlite" } }
+, "steam":
+  { "username": "steam_account"
+  , "password": "hunter2"
+  , "steamGuard": "A1BCD" }
 }
